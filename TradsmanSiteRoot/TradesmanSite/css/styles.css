@@ -1,0 +1,114 @@
+@font-face {
+  font-family: 'Saira';
+  src: url('../fonts/SairaSemiCondensed-Regular.ttf');
+  font-weight: normal;
+  font-style: normal;
+}
+
+body{
+
+	height:100%;
+	padding: 0px;
+	margin-top: 20px;
+    margin-right: 0px;
+    margin-left: 0px;
+    margin-bottom: 30px;
+	font-family: 'Saira';
+
+}
+
+div.signInBar{
+    padding-left: 10px;
+}
+
+div.signUpCol{
+    padding-left: 10px;
+}
+
+.button{
+
+    padding-left: 35%;
+    padding-top: 15%;
+}
+
+.block{
+
+    width: 40%;
+    height: 50px;
+    border:none;
+    background-color:#008B8B;
+    color: white;
+    left: 50%;
+    font-family: 'Saira';
+    font-size: 20px;
+    cursor: pointer;
+    text-align: center;
+
+
+}
+
+.block > a{
+    color: white;
+    text-decoration: none;
+}
+
+.block:hover{
+    background-color:#00008B;
+
+    }
+
+.full-width{
+	width: 100%;
+    padding-left: 20px;
+}
+
+.half-width{
+	width: 80%;
+}
+
+.qua-width{
+	width: 25%;
+}
+
+.qua-rest{
+	width: 75%;
+}
+
+.top-padding-max{
+	padding-top: 150px;
+}
+
+.row{
+	display: flex;
+}
+
+.signin-text
+{
+
+}
+
+.form{
+
+}
+
+.form-div{
+	padding: 10px 0px;
+}
+
+.form-input{
+	width: 50%;
+	padding: 10px 20px;
+}
+
+.navigation ul{
+	list-style-type: none;
+}
+
+.navigation ul li{
+	display: inline;
+	padding-right: 20px;
+}
+
+.ali-right{
+	text-align: right;
+}
