@@ -1,3 +1,14 @@
+A film review site that I’m currently developing with 2 other students. Based on React framework JavaScript with use of socket.io to develop the live chat function.
+Still a work in progress so functionality isn’t complete and the code may be unstable.
+
+To start open in VS Code, start a terminal and type [node src/server/index.js], this will start the socket.io server for the live chat.
+Then in a separate terminal type [npm start] to start the react app.
+
+With the site now open on the popular movie page you can now search for a specific film or simply click on the image of a particular popular movie, 
+this will open the movie details and open that films particular live chat room(as long as the socket.io server is running)
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
