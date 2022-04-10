@@ -1,5 +1,5 @@
 A film review site that I’m currently developing with 2 other students. Based on React framework JavaScript with use of socket.io to develop the live chat function.
-Still a work in progress so functionality isn’t complete and the code may be unstable.
+Still a work in progress so functionality isn’t complete, styling is missing and the code may be unstable.
 
 To start open in VS Code, start a terminal and type [node src/server/index.js], this will start the socket.io server for the live chat.
 Then in a separate terminal type [npm start] to start the react app.
