@@ -1,0 +1,10 @@
+#ifndef MULTIDIMENTIONALARRAYS_MULTIARRAY
+#define MULTIDIMENTIONALARRAYS_MULTIARRAY
+
+#include <string>
+
+
+void multiArray();
+
+
+#endif // !UTILS_GREET
